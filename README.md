@@ -1,17 +1,40 @@
- Task 1 - Hangman Game
+# CodeAlpha Python Programming Internship
 
-# Description
-A simple Hangman game developed in Python where the player guesses a hidden word letter by letter.
+Welcome to my CodeAlpha Python Programming Internship repository. This repository contains all the tasks completed during my internship.
 
-# Features
-- Random word selection
-- Limited attempts
-- Win/Lose result
+## 📌 Internship Details
 
-# How to Run
-```bash
-python hangman.py
+- **Internship:** CodeAlpha Python Programming
+- **Language:** Python
+- **Platform:** CodeAlpha
+
+## 📂 Tasks
+
+## ✅ Task 1: Hangman Game
+A command-line Hangman game where the player guesses a hidden word letter by letter.
+
+## ✅ Task 2: Stock Portfolio Tracker
+A Python program to track stock investments and calculate the total portfolio value.
+
+### ✅ Task 3: Basic Chatbot
+A simple rule-based chatbot that interacts with users using predefined responses.
+
+## 🛠 Technologies Used
+
+- Python
+- GitHub
+- Visual Studio Code
+
+## 📁 Repository Structure
+
+```
+CodeAlpha_Python_Internship/
+│
+├── README.md
+├── Task1_Hangman_Game/
+├── Task2_Stock_Portfolio/
+└── Task3_Basic_Chatbot/
 ```
 
-# Author
+## 👩‍💻 Author
 Aisha Syed
